@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "ajv": "^6.7.0",
+    "ajv": "^6.12.6",
     "bootstrap-vue": "^2.0.0-rc.11",
     "bs58": "^4.0.1",
     "clone": "^2.1.2",
